@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^8.2.0",
-    "reactotron-react-js": "^3.3.7"
-  }
-}
